@@ -24,13 +24,7 @@ For this project, I was interestested in using Stack Overflow data from 2025 to 
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks available here to showcase work related to the above questions.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
-
-BootcampStats.ipynb: An analysis of bootcamp grads in terms of job placement and salary.
-
-Stake_flow_AI_Analysis.ipynb: An analysis of how to become a software developer.
+There are 1 notebooks Stake_flow_AI_Analysis.ipynb available here to showcase work related to the above questions.  
 
 
 
