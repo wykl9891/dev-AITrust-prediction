@@ -32,3 +32,12 @@ There are 1 notebooks Stake_flow_AI_Analysis.ipynb available here to showcase wo
 
 The main findings of the code can be found at the post available [here](https://medium.com/@wykl9891/ai-trust-analysis-229ab427b130).
 
+## Licensing, Authors, and Acknowledgements<a name="Licensing, Authors, and Acknowledgements"></a>
+
+### Acknowledgements 
+Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+### Licensing
+MIT Licensing
+### Authors
+This project is inspired by Josh Bernhard "How Do YOU Become A Developer?"
+and original project is here:([https://www.eericon.github.io/post/timer-android](https://github.com/jjrunner/stackoverflow/blob/master/HowToBreakIntoTheField.ipynb))
